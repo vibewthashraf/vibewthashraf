@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences ["Insert Later"]("Insert Later")
 
-- ⚡ Fun fact **Hobbies: Basketball, Chess, Gym**
+- ⚡ Hobbies **Basketball, Chess, Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
